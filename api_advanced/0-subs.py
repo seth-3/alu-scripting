@@ -13,7 +13,6 @@ def number_of_subscribers(subreddit):
 
     Args:
         subreddit (str): The subreddit to query.
-
     Returns:
         int: The number of subscribers for the subreddit,
     or 0 if the subreddit is invalid.
